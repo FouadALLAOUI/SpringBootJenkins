@@ -4,4 +4,8 @@ import org.springframework.security.config.annotation.method.configuration.Enabl
 
 public class Student {
     private String name;
+    private int age;
+
+
+
 }
