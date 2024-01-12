@@ -6,4 +6,6 @@ public class Trainer {
     private String email;
     private String address;
 
+    //******
+
 }
